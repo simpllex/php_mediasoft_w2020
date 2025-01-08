@@ -16,4 +16,5 @@ if (array_key_exists ($key, $array)){
 }
 
 print_r($array);
+print_r($array);
 
